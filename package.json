@@ -1,0 +1,22 @@
+{
+    "name": "theme-setimonokai-sublime",
+    "displayName": "Seti Monokai Sublime",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "garthenweb",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Seti Monokai Sublime",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Seti Monokai (SL).tmTheme"
+            }
+        ]
+    }
+}
